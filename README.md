@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navaneeth001
-- 👀 I’m interested in ...open source ,react native,react js,graphQL and node
+- 👀 I’m interested in ...Health tech, Cyber security
 - 🌱 I’m currently learning ...open CV ,python
 - 💞️ I’m looking to collaborate on ...React native projects
 - 📫 How to reach me ...+91 9645631401
